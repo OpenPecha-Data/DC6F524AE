@@ -112,75 +112,75 @@ annotations:
     reference: ''
     span:
       start: 19507
-      end: 20835
+      end: 20834
     note_ref: cc6f8306de0f46c99e11f48b66407ab1
   7f0708b7b891451ab0698d33b42e722e:
     imgnum: 1365
     reference: ''
     span:
-      start: 20837
-      end: 22201
+      start: 20836
+      end: 22200
     note_ref: cc6f8306de0f46c99e11f48b66407ab1
   5e41a05e7e2d428985d13d830c108bfe:
     imgnum: 1366
     reference: ''
     span:
-      start: 22203
-      end: 23549
+      start: 22202
+      end: 23548
     note_ref: c4d5549370a24a06b70c7cef9e399f79
   98b95d88296e4fd3a10c5535ac6f2971:
     imgnum: 1367
     reference: ''
     span:
-      start: 23551
-      end: 24917
+      start: 23550
+      end: 24916
     note_ref: c4d5549370a24a06b70c7cef9e399f79
   5b7eccf9f2be47ee86503ec6df6bc8fa:
     imgnum: 1368
     reference: ''
     span:
-      start: 24919
-      end: 26279
+      start: 24918
+      end: 26278
     note_ref: c4d5549370a24a06b70c7cef9e399f79
   c0ac88f802f545d5b246bcbf29fe6cc0:
     imgnum: 1369
     reference: ''
     span:
-      start: 26281
-      end: 27642
+      start: 26280
+      end: 27641
     note_ref: c4d5549370a24a06b70c7cef9e399f79
   dfd6c46a783d4bfe920ca62df3b629f1:
     imgnum: 1370
     reference: ''
     span:
-      start: 27644
-      end: 28999
+      start: 27643
+      end: 28998
     note_ref: c4d5549370a24a06b70c7cef9e399f79
   7ca70e07c24a4706be08264211809344:
     imgnum: 1371
     reference: ''
     span:
-      start: 29001
-      end: 29947
+      start: 29000
+      end: 29946
     note_ref: c4d5549370a24a06b70c7cef9e399f79
   6379fa26c70c477593f8191e8855635d:
     imgnum: 1372
     reference: ''
     span:
-      start: 29949
-      end: 31756
+      start: 29948
+      end: 31755
   cc6f8306de0f46c99e11f48b66407ab1:
     imgnum: 1373
     reference: ''
     span:
-      start: 31758
-      end: 33976
+      start: 31757
+      end: 33975
   c4d5549370a24a06b70c7cef9e399f79:
     imgnum: 1374
     reference: ''
     span:
-      start: 33978
-      end: 35855
+      start: 33977
+      end: 35854
 local_ids:
   8a04533aa2af4ebb8e558398aff3c415: 200000
   776481ba27f1414eb52ca7c70601e7a3: 200001
